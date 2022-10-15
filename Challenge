@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>`substitute(Filename('', 'Page Title'), '^.', '\u&', '')`</title>
+        meta
+    </head>
+    <body>
+        <h1>HTML Challenge</h1>
+        <hr />
+        <a href="https://developer.mozilla.org/en-US/">Link to MDN Documentation</a>
+        <table border="0">
+            <tr>
+                <table border="0">
+                    <td>One</td>
+                    <td>Two</td>
+                </table>
+            </tr>
+            <tr>
+                <table border="0">
+                    <td>Three</td>
+                    <td>Four</td>
+                </table>
+            </tr>
+        </table>
+    </body>
+</html>
